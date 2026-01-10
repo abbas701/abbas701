@@ -72,10 +72,6 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abbas701&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=tokyonight" />
 </p>
 
@@ -84,7 +80,7 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abbas701&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
