@@ -77,14 +77,6 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
