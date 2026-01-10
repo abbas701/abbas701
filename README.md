@@ -7,7 +7,7 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 
 ---
 
-## ⚡ About Me (Quick Gist)
+## ⚡ About Me
 
 - 🔭 **Currently building:** Full-stack LMS / ERP platform & Autonomous surveillance robot  
 - 🛠 **Core focus:** Robotics, Embedded Systems, Backend & System Design  
@@ -20,13 +20,13 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
+<a href="https://www.linkedin.com/in/abbasaliqam" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+<a href="https://instagram.com/abbas.ali.qam" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abbasaliqam@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -77,6 +77,22 @@ I build real-world systems where <b>software meets hardware</b> — from full-st
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abbas701&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbas701&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
