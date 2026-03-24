@@ -1,6 +1,6 @@
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlzeGlwbXFlMm85a2Q1dnlnZmM4NmxqYnNyMzM2bWtxNnVobnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6NaTTkaqWS6RoV3qt/giphy.gif" width="220">
+# Hi there, I'm Abbas Ali👋
 
-# Abbas Ali
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlzeGlwbXFlMm85a2Q1dnlnZmM4NmxqYnNyMzM2bWtxNnVobnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6NaTTkaqWS6RoV3qt/giphy.gif" width="220">
 
 **Computer Engineering Student · Robotics · Full-Stack · IoT**
 
@@ -12,13 +12,21 @@ Currently building a **Full-Stack LMS/ERP platform** and an **Autonomous Surveil
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbas.ali.qam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasaliqam@gmail.com)
 
+[<img align="left" alt="Ali | LinkedIn" width="48px" src="https://www.linkedin.com/in/abbasaliqam" />][linkedin]
+[<img align="left" alt="Ali | GMail" width="48px" src="abbasaliqam@gmail.com" />][Gmail]
+[<img align="left" alt="Ali | Outlook" width="48px" src="aa09618@st.habib.edu.pk" />][Outlook]
+[<img align="left" alt="Ali | Facebook" width="48px" src="https://www.facebook.com/profile.php?id=100074793012303" />][Facebook]
+[<img align="left" alt="Ali | Instagram" width="48px" src="https://instagram.com/abbas.ali.qam" />][instagram]
+
 ---
 
-## 🔭 Current Focus
+## ⚡ About Me
 
-- Building a full-stack **LMS / ERP platform** and an **autonomous surveillance robot**
-- Learning **secure backend architecture** and **Computer Vision** for robotics
-- Open to collaborations in Robotics, IoT, automation & full-stack
+- 🔭 **Currently building:** Full-stack LMS / ERP platform & Autonomous surveillance robot  
+- 🛠 **Core focus:** Robotics, Embedded Systems, Backend & System Design  
+- 🌱 **Learning:** Secure backend architecture & Cisco IoT
+- 🤝 **Open to:** Robotics, IoT, automation & full-stack collaborations  
+- ⚡ **Fun fact:** I love making software control the physical world — motors, sensors & data in sync
 
 ---
 
