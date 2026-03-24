@@ -12,12 +12,6 @@ Currently building a **Full-Stack LMS/ERP platform** and an **Autonomous Surveil
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbas.ali.qam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasaliqam@gmail.com)
 
-[<img align="left" alt="Ali | LinkedIn" width="48px" src="https://www.linkedin.com/in/abbasaliqam" />][linkedin]
-[<img align="left" alt="Ali | GMail" width="48px" src="abbasaliqam@gmail.com" />][Gmail]
-[<img align="left" alt="Ali | Outlook" width="48px" src="aa09618@st.habib.edu.pk" />][Outlook]
-[<img align="left" alt="Ali | Facebook" width="48px" src="https://www.facebook.com/profile.php?id=100074793012303" />][Facebook]
-[<img align="left" alt="Ali | Instagram" width="48px" src="https://instagram.com/abbas.ali.qam" />][instagram]
-
 ---
 
 ## ⚡ About Me
