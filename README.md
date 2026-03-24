@@ -1,86 +1,80 @@
-<h1 align="center">Hi 👋, I'm Abbas Ali</h1>
-<h3 align="center">Computer Engineering Student | Robotics • Full-Stack • IoT</h3>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlzeGlwbXFlMm85a2Q1dnlnZmM4NmxqYnNyMzM2bWtxNnVobnp1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6NaTTkaqWS6RoV3qt/giphy.gif" width="220">
 
-<p align="center">
-I build real-world systems where <b>software meets hardware</b> — from full-stack platforms to autonomous robots and IoT solutions.
-</p>
+# Abbas Ali
 
----
+**Computer Engineering Student · Robotics · Full-Stack · IoT**
 
-## ⚡ About Me
+I build real-world systems where **software meets hardware** — from full-stack platforms to autonomous robots and IoT solutions. I love making software control the physical world: motors, sensors, and data in sync. ⚡
 
-- 🔭 **Currently building:** Full-stack LMS / ERP platform & Autonomous surveillance robot  
-- 🛠 **Core focus:** Robotics, Embedded Systems, Backend & System Design  
-- 🌱 **Learning:** Secure backend architecture & Computer Vision for robotics  
-- 🤝 **Open to:** Robotics, IoT, automation & full-stack collaborations  
-- ⚡ **Fun fact:** I love making software control the physical world — motors, sensors & data in sync  
+Currently building a **Full-Stack LMS/ERP platform** and an **Autonomous Surveillance Robot**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbasaliqam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbas.ali.qam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasaliqam@gmail.com)
 
 ---
 
-## 🌐 Socials
+## 🔭 Current Focus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abbasaliqam" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/abbas.ali.qam" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:abbasaliqam@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- Building a full-stack **LMS / ERP platform** and an **autonomous surveillance robot**
+- Learning **secure backend architecture** and **Computer Vision** for robotics
+- Open to collaborations in Robotics, IoT, automation & full-stack
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Programming & Web
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**Programming**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### 🧩 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🧠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### 🤖 Robotics & IoT
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto)
+**Robotics & IoT**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 
-### 🛠 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas701&theme=github-dark-blue&hide_border=true" width="480"/>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbas701&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abbas701&theme=github_dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas701&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/abbas701)
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbas701&theme=tokyo-night&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbas701&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
 ---
