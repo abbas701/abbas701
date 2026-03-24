@@ -6,8 +6,6 @@
 
 I build real-world systems where **software meets hardware** — from full-stack platforms to autonomous robots and IoT solutions. I love making software control the physical world: motors, sensors, and data in sync. ⚡
 
-Currently building a **Full-Stack LMS/ERP platform** and an **Autonomous Surveillance Robot**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbasaliqam)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbas.ali.qam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasaliqam@gmail.com)
